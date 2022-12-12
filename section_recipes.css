@@ -1,0 +1,16 @@
+.ingredient {
+  font-size: 21px;
+  margin: 10px 0 15px;
+  color: #0053a6;
+}
+
+.method{
+  font-size: 21px;
+  margin: 15px 0 15px;
+  color: #0053a6; 
+}
+.margin {
+  position: relative;
+margin-top: 150px;
+margin-bottom: 20px;
+}
